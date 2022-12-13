@@ -11,7 +11,7 @@ Answer the following questions:
 
 * What does FinTech mean to you? Why is it important?
 
-    It is providing a financial service through disruption or innovation in financial technologies. It means having freedom of choice to make financial         decisions in a timely and effective manner.
+    It is providing a financial service through disruption or innovation in financial technologies. It is important because FinTech follows the 'Kaizen' approach borrowed from the Japanese, which results in continous improvement within the financial dominion.
 
 * What about FinTech interests you?
 
