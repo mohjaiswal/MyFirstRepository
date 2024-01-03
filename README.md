@@ -1,3 +1,5 @@
+![FinTech Header](first_image.webp)
+
 # FinTech and My Perspective
 
 In the realm of financial technology, often abbreviated as FinTech, lies a rapidly evolving landscape characterized by disruption and innovation. FinTech represents a transformative force, reshaping the conventional methodologies in financial services. This evolution is not just a technological shift but also embodies the 'Kaizen' philosophy of continuous improvement, a concept originating from Japan, which significantly impacts the financial sector.
