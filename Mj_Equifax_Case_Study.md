@@ -12,4 +12,4 @@ NeuroDecision Technology tycoon Equifax is remodelling the credit score landscap
 
 While traditional credit lending models use logistic regressions; a statistical technique using linear functions. The limitation of this method is not being able to identify non-linear relationships. Equifax's implementation of neural nets to solve the aformentioned issue. 
 
-To know more about it please click [here.](https://www.equifax.com/videos/introduction-neurodecision/)
+To know more about it please click [here.](2018-03-26_Equifax_Launches_NeuroDecision_203.pdf)
