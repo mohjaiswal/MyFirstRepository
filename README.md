@@ -1,9 +1,5 @@
-![FinTech Header](first_image.webp)
-
 # FinTech and My Perspective
-
-
-FinTech Header
+![FinTech Header](first_image.webp)
 
 FinTech: A Frontier of Endless Possibilities
 In the ever-evolving world of financial technology, or FinTech, we witness an era of profound transformation and boundless innovation. FinTech isn't just about changing how we transact financially; it's a revolution, a paradigm shift that's rewriting the rulebook of traditional finance. It embodies the essence of 'Kaizen'—the art of continuous improvement. Originating from Japan, this philosophy has become the heartbeat of the financial sector's evolution.
